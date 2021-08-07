@@ -1,0 +1,3 @@
+include ':comp_network_diagnosis'
+include ':app'
+rootProject.name = "MobileNetworkDiagnosis"
